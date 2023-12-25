@@ -6,4 +6,4 @@
 
 - Tanstack router.
 
-#### [DEMO](https://preeminent-alpaca-4ca764.netlify.app/)
+#### [>>> DEMO <<<](https://preeminent-alpaca-4ca764.netlify.app/)
